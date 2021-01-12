@@ -1,2 +1,2 @@
 # ML
-notes and implementations of classic machine learning algorithms
+notes, applications and implementations of classic machine learning algorithms
